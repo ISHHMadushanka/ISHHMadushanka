@@ -26,14 +26,13 @@ I am a undergraduate student in information technology from Sri Lanka.
 - 🌱 I’m currently learning Laravel PHP web framework
 - 👯 I’m looking to collaborate on [Pizza-House](https://github.com/ISHHMadushanka/Pizza-House)
 - 💬 Ask me about anything [here](https://github.com/ISHHMadushanka/ISHHMadushanka/issues)
-- 📫 How to reach me: isharamadushanka96.blogspot.com <br>
+- 📫 How to reach me: https://isharamadushanka96.blogspot.com/ <br>
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="15" src="<i class="fab fa-php"></i>"></code>
-<code><img height="15" src="<i class="fab fa-html5"></i>"></i>"></code>
+
 
 
 <p align="center">
